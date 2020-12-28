@@ -1,0 +1,302 @@
+
+body{
+background-color: White;
+}
+
+header{
+  max-width: 100%;
+  background-color: #FFF6ED;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+
+#header-area{
+  width: 1000px;
+  height: 101.89px;
+  margin: 0 auto;
+  padding: 25px;
+
+}
+
+#header-area .logo{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+#header-area nav {
+  text-align: center;
+  direction: rtl;
+  position: relative;
+  top: 80px;
+
+}
+
+#header-area nav ul li{
+  align-items: center;
+  display: inline-block;
+  padding: 3px;
+  color: #b49c78;
+}
+
+#header-area nav ul a{
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+}
+
+#header-area .contacts-buttons{
+  display: inline-block;
+  width: 500px;
+}
+
+#header-area .contacts-buttons .contact-button{
+  display: inline-block;
+  width: 150px;
+  border: 1px solid #b49c78;
+  text-align: center;
+  padding: 8px;
+}
+
+#header-area .contacts-buttons .contact-button .phone-logo {
+  display: inline-block;
+  color: #b49c78;
+  float: right;
+}
+
+#header-area .contacts-buttons .contact-button a{
+  text-decoration: none;
+  color: #b49c78;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+}
+
+#header-area .contacts-buttons .newslatter-button{
+  display: inline-block;
+  width: 150px;
+  border: 1px solid #b49c78;
+  text-align: center;
+  padding: 8px;
+
+}
+
+#header-area .contacts-buttons .newslatter-button .newslatter-logo {
+  display: inline-block;
+  color: #b49c78;
+  float: right;
+
+}
+
+#header-area .contacts-buttons .newslatter-button a{
+  text-decoration: none;
+  color: #b49c78;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+}
+
+#posts-section{
+  max-width: 100%;
+}
+
+
+#posts-section  .first-row-posts{
+  width: 1050px;
+  height: 420px;
+  margin: 0 auto;
+
+}
+
+#posts-section  .second-row-posts{
+  width: 1050px;
+  height: 420px;
+  margin: 0 auto;
+
+}
+
+#posts-section  .third-row-posts{
+  width: 1050px;
+  height: 420px;
+  margin: 0 auto;
+
+}
+
+#posts-section  .fourth-row-posts{
+  width: 1050px;
+  height: 420px;
+  margin: 0 auto;
+
+}
+
+#posts-section .first-row-posts .post-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .first-row-posts .post-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#posts-section .first-row-posts .post-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .second-row-posts .post-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .second-row-posts .post-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#posts-section .second-row-posts .post-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+
+}
+
+
+#posts-section .third-row-posts .post-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .third-row-posts .post-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .third-row-posts .post-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#posts-section .fourth-row-posts .post-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#posts-section .fourth-row-posts .post-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#posts-section .fourth-row-posts .post-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+
+#posts-section img{
+  width: 300px;
+  height: 300px;
+}
+
+#posts-section a{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: White;
+}
+
+#posts-section .bg-title{
+  background-color: #b49c78;
+  width: 300px;
+  height: 50px;
+}
+
+
+#posts-section h1{
+  padding: 20px;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: #b49c78;
+}
+
+/*/////////////////////////responsive//////////////\*/
+
+@media only screen and (max-width: 550px){
+  #posts-section .first-row-posts ,  #posts-section .second-row-posts , #posts-section .third-row-posts , #posts-section .fourth-row-posts {
+    width: 100%;
+
+  }
+
+  #posts-section .first-row-posts .post-1 ,#posts-section .first-row-posts .post-2  ,#posts-section .first-row-posts .post-3{
+      width: 90%;
+      height:400px;
+  }
+
+  #posts-section .second-row-posts .post-1 ,#posts-section .second-row-posts .post-2  ,#posts-section .second-row-posts .post-3{
+      width: 90%;
+      height:400px;
+  }
+
+  #posts-section .third-row-posts .post-1 ,#posts-section .third-row-posts .post-2  ,#posts-section .third-row-posts .post-3{
+      width: 90%;
+      height:400px;
+  }
+
+  #posts-section .fourth-row-posts .post-1 ,#posts-section .fourth-row-posts .post-2  ,#posts-section .fourth-row-posts .post-3{
+      width: 90%;
+      height:400px;
+
+  }
+}

@@ -1,0 +1,304 @@
+
+body{
+background-color: White;
+}
+
+header{
+  max-width: 100%;
+  background-color: #FFF6ED;
+
+}
+
+a{
+  text-decoration: none;
+}
+
+
+#header-area{
+  width: 1000px;
+  height: 101.89px;
+  margin: 0 auto;
+  padding: 25px;
+
+}
+
+#header-area .logo{
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+#header-area nav {
+  text-align: center;
+  direction: rtl;
+  position: relative;
+  top: 80px;
+
+}
+
+#header-area nav ul li{
+  align-items: center;
+  display: inline-block;
+  padding: 3px;
+  color: #b49c78;
+}
+
+#header-area nav ul a{
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+}
+
+#header-area .contacts-buttons{
+  display: inline-block;
+  width: 500px;
+}
+
+#header-area .contacts-buttons .contact-button{
+  display: inline-block;
+  width: 150px;
+  border: 1px solid #b49c78;
+  text-align: center;
+  padding: 8px;
+}
+
+#header-area .contacts-buttons .contact-button .phone-logo {
+  display: inline-block;
+  color: #b49c78;
+  float: right;
+}
+
+#header-area .contacts-buttons .contact-button a{
+  text-decoration: none;
+  color: #b49c78;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+}
+
+#header-area .contacts-buttons .newslatter-button{
+  display: inline-block;
+  width: 150px;
+  border: 1px solid #b49c78;
+  text-align: center;
+  padding: 8px;
+
+}
+
+#header-area .contacts-buttons .newslatter-button .newslatter-logo {
+  display: inline-block;
+  color: #b49c78;
+  float: right;
+
+}
+
+#header-area .contacts-buttons .newslatter-button a{
+  text-decoration: none;
+  color: #b49c78;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 400;
+}
+
+#Videos-section{
+  max-width: 100%;
+}
+
+
+#Videos-section  .first-row-video{
+  width: 1050px;
+  height: 600px;
+  margin: 0 auto;
+
+}
+
+#Videos-section  .second-row-video{
+  width: 1050px;
+  height: 600px;
+  margin: 0 auto;
+
+}
+
+#Videos-section  .third-row-video{
+  width: 1050px;
+  height: 600px;
+  margin: 0 auto;
+
+}
+
+#Videos-section  .fourth-row-video{
+  width: 1050px;
+  height: 600px;
+  margin: 0 auto;
+
+}
+
+#Videos-section .first-row-video .Video-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .first-row-video .Video-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#Videos-section .first-row-video .Video-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .second-row-video .Video-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .second-row-video .Video-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#Videos-section .second-row-video .Video-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#Videos-section .third-row-video .Video-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .third-row-video .Video-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#Videos-section .third-row-video .Video-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+}
+
+#Videos-section .fourth-row-video .Video-1{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .fourth-row-video .Video-2{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+#Videos-section .fourth-row-video .Video-3{
+  width: 300px;
+  height: 100px;
+  margin: 0 auto;
+  float: left;
+  padding: 0 20px;
+
+}
+
+
+#Videos-section img{
+  width: 300px;
+  height: 300px;
+}
+
+#Videos-section a{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: White;
+}
+
+#Videos-section .bg-title{
+  background-color: #b49c78;
+  width: 300px;
+  height: 50px;
+}
+
+
+#Videos-section h1{
+  padding: 20px;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+  color: #b49c78;
+}
+
+/*////////////////////////responsive\***************/
+
+@media only screen and (max-width: 500px){
+
+  body{
+    overflow-x: hidden;
+  }
+  #Videos-section .first-row-video ,  #Videos-section .second-row-video , #Videos-section .third-row-video , #Videos-section .fourth-row-video {
+    width: 100%;
+
+  }
+
+  #Videos-section .first-row-video .Video-1 ,#Videos-section .first-row-video .Video-2  ,#Videos-section .first-row-video .Video-3{
+      width: 90%;
+      height:600px;
+  }
+
+  #Videos-section .second-row-video .Video-1 ,#Videos-section .second-row-video .Video-2  ,#Videos-section .second-row-video .Video-3{
+      width: 90%;
+      height:600px;
+  }
+
+  #Videos-section .third-row-video .Video-1 ,#Videos-section .third-row-video .Video-2  ,#Videos-section .third-row-video .Video-3{
+      width: 90%;
+      height:600px;
+  }
+
+  #Videos-section .fourth-row-video .Video-1 ,#Videos-section .fourth-row-video .Video-2  ,#Videos-section.fourth-row-video .Video-3{
+      width: 90%;
+      height:600px;
+
+  }
+}
